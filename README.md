@@ -27,7 +27,7 @@ I reverted back to v1 as it was the most reliable and consistent version.
 ## How to run
 1. Open TORCS and start a race (SCR server on port 3001)
 2. Run:
-   py snakeoil3_gym_v1.py
+   py snakeoil3_gym_v3.py
 
 ## Author
 Titilayo Olusegun
