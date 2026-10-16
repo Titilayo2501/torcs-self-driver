@@ -5,10 +5,11 @@ A Python autonomous racing client for TORCS (The Open Race Car Simulator).
 ## My Results
 - Finished in **1st place**
 - **0 damage** recorded
-- Best lap: **02:45:69**
+- Best lap: **02:06:55**
 
 ## Files
-- `snakeoil3_gym_v1.py` - Best and final version (most consistent performance)
+- `snakeoil3_gym_v3.py` - Best and final version (most consistent performance)
+- `snakeoil3_gym_v1.py` - First trial version 
 - `snakeoil3_gym_v2.py` - Experimental version (tuned further but caused instability)
 
 ## Development Process
